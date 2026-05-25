@@ -1,0 +1,1 @@
+Trip logic/class (Java).
