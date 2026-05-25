@@ -1,0 +1,1 @@
+Waste type definition (Python).
